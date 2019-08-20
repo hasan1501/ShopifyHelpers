@@ -1,0 +1,26 @@
+{
+  "name": "shopify-helpers",
+  "version": "1.0.0",
+  "description": "async/await based shopify helpers to code faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasan1501/ShopifyHelpers.git"
+  },
+  "keywords": [
+    "shopify"
+  ],
+  "author": "Hasanpreet Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hasan1501/ShopifyHelpers/issues"
+  },
+  "homepage": "https://github.com/hasan1501/ShopifyHelpers#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jimp": "^0.6.4"
+  }
+}
